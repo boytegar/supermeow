@@ -1,0 +1,1 @@
+telegram={telegram_id}&is_on_chain=false&{auth_data}
