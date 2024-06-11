@@ -21,6 +21,7 @@ Install with python
 7. support multi account, create new line in initdata.txt
 8. copy key from cmd and join group discussion [GroupChat](https://t.me/+gU8ad-nLYNI3NjY1)
 9. tag @SnailHelperBot and paste the key, wait until bot reply the key for running the bots
+10. copy and paste key to serial.txt
 
 
 ## Features
