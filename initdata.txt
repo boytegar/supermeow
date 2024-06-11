@@ -1,1 +1,1 @@
-telegram={telegram_id}&is_on_chain=false&{auth_data}
+telegram={telegram_id}&is_on_chain=false&auth_data=%7B%22{auth_data}
