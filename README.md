@@ -5,7 +5,7 @@ support my github channel
 
 Register Here : [SuperMeow](https://t.me/supermeow_vip_bot?start=7279909316)
 
-Join to My Telegram Group : [S4NSGroup](https://t.me/sanscryptox)
+Join to My Telegram Group : [S4NSGroup](https://t.me/sansxgroup)
 
 
 ## Tutorial
